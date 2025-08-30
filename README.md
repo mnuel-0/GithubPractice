@@ -146,6 +146,7 @@ También cambia está línea. hola
 
 > Soy \[tu nombre\] y cambié esto en una branch.
 > Soy \[Manuel F.\] y cambié esto en una branch.
+> Soy \[Manuel F. B\] y cambié esto en una branch.
 
 Hacemos commit y push a los cambios
 
